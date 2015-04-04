@@ -54,6 +54,9 @@ By 狄学长
 				1
 				./
 				test.map
+                ./GameData.lua
+                ./battle_xml_format.xml
+
 <br></br> 对应的解释：
 
 				各输入项说明:string
@@ -65,6 +68,10 @@ By 狄学长
 				是否生成战斗统计文件:bool(0/1)
 				统计文件输出路径（请使用绝对路径）
 				地图文件名
+                Gamedata.lua
+                battle_xml_format
+
+
 
 	* 输出：
 		* 战斗录像文件.txt，可由游戏动画程序打开播放
